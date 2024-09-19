@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    color: gray;
+
+}
+body{
+    background-color: rgb(135, 145, 250);
+    padding: 50px;
+    background-position: center;
+    background-size: cover;
+    
+}
+.parent{
+    display: flex;
+    justify-content: space-around;
+}

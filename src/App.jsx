@@ -1,6 +1,5 @@
 import { useState } from 'react'
 import './App.css'
-import reactLogo from './assets/react.svg'
 import Login from './Login'
 import Signup from './Signup'
 
